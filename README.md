@@ -1,7 +1,7 @@
 Kavindu Rasanja — Personal Portfolio
 Welcome to the source repository for my personal portfolio website.
 
-🌐 Live website: kavindurasanja.vercel.app
+🌐 Live website: https://kavindurasanja.vercel.app
 
 This portfolio is my online space to introduce myself, present my skills and selected work, and make it easier for people to connect with me about software and web development projects.
 What you'll find
